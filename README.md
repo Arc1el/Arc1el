@@ -5,7 +5,7 @@
 # About me
   ## 👶🏻 I am a Backend Engineer/Developer from Korea 🇰🇷
   
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=arc1el)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arc1el&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=arc1el)](https://github.com/anuraghazra/github-readme-stats)<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arc1el&langs_count=3)](https://github.com/anuraghazra/github-readme-stats) -->
   
   ## 🛠️ Language and Tools
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">

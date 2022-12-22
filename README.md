@@ -4,7 +4,7 @@
   
 # About me
   ## 👶🏻 I am a Backend Engineer/Developer from Korea 🇰🇷
-  GPA : 4.25/4.5 (4.05/4.3)
+  GPA : 4.25/4.5 (4.05/4.3)<br>
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=arc1el)](https://github.com/anuraghazra/github-readme-stats)<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arc1el&langs_count=3)](https://github.com/anuraghazra/github-readme-stats) -->
   
   ## 🛠️ Language and Tools

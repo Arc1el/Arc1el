@@ -9,10 +9,10 @@
     - Department of Marine Computer Engineering, Mokpo National Maritime University (2016. 03. ~ 2021. 03.)<br>
     - Department of Computer Engineering, Hanbat National University (2021. 03. ~ 2023. 03.)<br>
     - Hanbat National University DfX (Design-for-X) Laboratory undergraduate research student (2021. 12. ~ 2022. 12.)<br><br>
-  
+  </div>
   
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=arc1el)](https://github.com/anuraghazra/github-readme-stats)<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arc1el&langs_count=3)](https://github.com/anuraghazra/github-readme-stats) -->
-    </div>
+    
   
   ## 🛠️ Language and Tools
   <div align="left">

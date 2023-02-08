@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&desc=Arciel%20Github%20Repo&descAlign=70&descAlignY=30" />
   
 # About me
-  ## 👶🏻 I am a Backend Engineer/Developer from Korea 🇰🇷
+  ## 👶🏻 I am a Backend Engineer/Developer from Korea 🇰🇷 <br>☁️ Now I study about cloud ☁️
   <div align="left">
     - GPA : 4.25/4.5 (4.05/4.3)<br>
     - Department of Marine Computer Engineering, Mokpo National Maritime University (2016. 03. ~ 2021. 03.)<br>

@@ -5,7 +5,7 @@
 # About me
   ## ☁️ Solutions Architect from Korea ☁️
   <div align="left">
-    - GPA : 4.25/4.5 (4.05/4.3)<br>
+    - GPA : 4.24/4.5 (4.05/4.3)<br>
     - Department of Marine Computer Engineering, Mokpo National Maritime University (2016. 03. ~ 2021. 03.)<br>
     - Department of Computer Engineering, Hanbat National University (2021. 03. ~ 2023. 03.)<br>
     - Hanbat National University DfX (Design-for-X) Laboratory undergraduate research student (2021. 12. ~ 2022. 12.)<br>
@@ -15,28 +15,49 @@
     <img src = "https://images.credly.com/size/100x100/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png">&nbsp;
     <img src = "https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">&nbsp;
     <img src = "https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
-    
   </div><br>
-  
-  
-  
   
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=arc1el)](https://github.com/anuraghazra/github-readme-stats)<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arc1el&langs_count=3)](https://github.com/anuraghazra/github-readme-stats) -->
     
+  ## 🌟 I'm interested in everything that helps build a cloud development environment.<br>
+  * likes CI/CD, IaC and Container Orchestration (Docker, k8s, etc)
+  ### Docker
+  * Create DockerFile, Create Docker Image, Push and Pull Docker Image
+  * Have experience using Docker hub, Github Container Registry, AWS Elastic Container Registry
+  * Experience building cloud native container orchestration using AWS ECS and AWS ECR
+  ### CI/CD
+  * I can construct a fully automated pipeline using AWS Code series, Github, and AWS CodeCommit as sources.
+  * I can configure a fully automated container orchestration environment using the AWS Code series and AWS ECS.
+  * Now, I am studying the composition of a fully automated k8s orchestration environment using AWS EKS.
+  ### K8s
+  * I can build a local Kubernetes environment.
+  * I can configure a cloud native Kubernetes orchestration environment using AWS EKS.
+  ### IaC
+  * I can use CloudFormation to create most Amazon resources and configure my infrastructure.
+  * I can configure most AWS cloud infrastructure using Hashicorp's Terraform.
+  * I can use the AWS CLI to create shell scripts and create simple AWS resources.
   
   ## 🛠️ Language and Tools
   <div align="left">
     OS<br>
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
     <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+    AmazonLinux
     <br>
-    Language<br>
+    Programming Language<br>
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/java-F80000?style=for-the-badge&logo=oracle&logoColor=white">
     <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
     <br>
+    IaC<br>
+    Terraform
+    CloudFormation
+    <br>
+    CI/CD Tools<br>
+    Github Actions, AWS Code Series(Pipeline, Build, Deploy), Jenkins
     Database<br>
+    AWS DocumentDB, AWS Aurora
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"><br>
     <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">

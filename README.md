@@ -14,7 +14,8 @@
     <img src = "https://images.credly.com/size/100x100/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png">&nbsp;
     <img src = "https://images.credly.com/size/100x100/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png">&nbsp;
     <img src = "https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">&nbsp;
-    <img src = "https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
+    <img src = "https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">&nbsp;
+    <img src = "https://images.credly.com/size/100x100/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png">
   </div><br>
   
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=arc1el)](https://github.com/anuraghazra/github-readme-stats)<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arc1el&langs_count=3)](https://github.com/anuraghazra/github-readme-stats) -->
